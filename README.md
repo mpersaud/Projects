@@ -1,1 +1,1 @@
-Various Algorithms in C++ and Java
+Various Algorithms and Data Structures in C++ and Java
