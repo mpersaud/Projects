@@ -7,6 +7,7 @@ import java.util.Scanner;
 
 
 public class HeapSort {
+	
 	private int length;
 	
 	private int[] heap;
